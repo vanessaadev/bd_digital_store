@@ -1,0 +1,44 @@
+tb_banner {
+    id
+}
+
+tb_colecoes_destaque {
+    id
+}
+
+tb_produto {
+
+}
+
+tb_marca {
+
+}
+
+tb_categoria {
+    nome, descricao
+}
+
+tb_cupom {
+
+}
+
+tb_produto {
+
+}
+
+tb_cliente {
+
+}
+
+tb_endereco {
+
+}
+
+tb_tipo_pagamento {
+
+}
+
+
+tb_usuario {
+    
+}
