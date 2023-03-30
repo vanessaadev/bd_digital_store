@@ -9,7 +9,7 @@ async function execute(sql) {
     });
 
     //executa lá no mysql
-    let [rows] = await conexao.execute(sql)
+    let [rows, columns] = await conexao.execute(sql)
 
     return rows;
 }
